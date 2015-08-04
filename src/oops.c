@@ -17,5 +17,10 @@
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+
+	/*
+	 * Erik doet er weer wat bij
+	 */
+	printf("\nHallo Allemaal!\n");
 	return EXIT_SUCCESS;
 }
