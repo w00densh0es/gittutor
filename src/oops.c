@@ -11,6 +11,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+ * Dit is een commentaar voor GIT!
+ */
+
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
